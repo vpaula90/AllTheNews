@@ -10,6 +10,6 @@ Axios
 
 To scrape new articles from New York Times Tech section and display it on an app. 
 
-![ScreenShot 1](/Users/paulavillegas/Desktop/UCLA_BootCamp_Activities/Home_Work/AllTheNews/images/reactassignment1.png)
+![ScreenShot 1](/images/reactassignment1.png)
 
-![ScreenShot 2](/Users/paulavillegas/Desktop/UCLA_BootCamp_Activities/Home_Work/AllTheNews/images/reactassignment2.png)
+![ScreenShot 2](/images/reactassignment2.png)
